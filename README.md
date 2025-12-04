@@ -4,7 +4,7 @@ Repositorio del **curso de R** impartido por el profesor Óscar Centeno Mora, or
 
 <table>
   <tr>
-    <td><img src="/ima/rshiny.png" alt="LogoShiny2" style="width: 150px;"/></td>
+    <td><img src="/ima/Shinylogo.png" alt="LogoShiny2" style="width: 150px;"/></td>
   </tr>
 </table>
 
