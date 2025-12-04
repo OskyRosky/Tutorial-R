@@ -2,13 +2,6 @@
 
 Repositorio del **curso de R** impartido por el profesor Óscar Centeno Mora, orientado a personas que desean aprender R desde cero hasta un nivel intermedio–avanzado, con énfasis en **análisis de datos**, **visualización** y **reportes reproducibles**.
 
-<table>
-  <tr>
-    <td><img src="/ima/Shinylogo.png" alt="LogoShiny" style="width: 150px;"/></td>
-    <td><img src="/ima/rshiny.png" alt="LogoShiny2" style="width: 150px;"/></td>
-  </tr>
-</table>
-
 
  ![class](/ima/ima1.jpg)
 
